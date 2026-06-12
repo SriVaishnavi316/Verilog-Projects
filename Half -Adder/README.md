@@ -14,5 +14,8 @@ Half Adder implemented Using Verilog HDL
 ## Tools Used
 Modelsim/Questasim
 
+## Simulation Result
+![Simulation Output](simulation_output.png)
+
 ## Author 
 Sri Vaishnavi Bougi
